@@ -23,6 +23,3 @@ This dashboard provides a clean and modern interface to visualize key performanc
 | **CSS3** | Styling, layout design, and responsiveness |
 | **JavaScript (ES6)** | Dynamic functionality and Chart.js configuration |
 | **Chart.js** | Beautiful and customizable chart visualizations |
-
-```markdown
-![Dashboard Screenshot](./screenshot.png)
